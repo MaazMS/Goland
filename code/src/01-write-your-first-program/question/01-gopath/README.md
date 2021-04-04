@@ -1,6 +1,6 @@
 ## What is $GOPATH?   
 1. GOPATH is actually is an environment variable which show a location to a physical directory on your computer.  
-## What is workspace ?   
+## What is a workspace ?   
 GOPATH is also called workspace which means it's place for all people who work on go code.    
 
 ## What are folder inside $GOPATH?  
