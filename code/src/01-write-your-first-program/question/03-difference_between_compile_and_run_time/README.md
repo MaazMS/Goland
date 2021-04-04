@@ -12,15 +12,15 @@ func main(){
 }
 
 ``` 
-2. open terminal enter `go build` 
-3. `build       compile packages and dependencies`  
+1. open terminal enter `go build` 
+1. `build       compile packages and dependencies`  
 
 ## How to execute compile code?  
 ./executeble_file_name  
 
-## How to identify executable file?   
+## How to identify an executable file?   
 1. ls -l 
-`-rwxrwxr-x 1 maaz maaz 2034781 Feb 15 10:50 01-print-names`  -x means it is executable file.      
+`-rwxrwxr-x 1 maaz maaz 2034781 Feb 15 10:50 01-print-names`  -x means it is an executable file.      
 2. file file_name   
 `file 01-print-names `  
 
@@ -30,7 +30,7 @@ func main(){
 ## How to perform runtime?  
 1. go run file_name.   
 ` go run main.go`   
-2. It is compiled and run program   
+1. It is compiled and run program   
 
 ## what is behind go run?   
 1. go run -x main.go   
