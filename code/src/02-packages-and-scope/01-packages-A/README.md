@@ -9,13 +9,13 @@
 3. `go run main.go hey.go bye.go`    
 * example    
 ```  
-maaz@maaz-Lenovo-G50-70:~/github/LearningGO/code/src/02-packages-and-scope/exercises/Package$ go run .
+$ go run .
 Hi 
 goodbye
-maaz@maaz-Lenovo-G50-70:~/github/LearningGO/code/src/02-packages-and-scope/exercises/Package$ go run *.go
+$ go run *.go
 Hi 
 goodbye
-maaz@maaz-Lenovo-G50-70:~/github/LearningGO/code/src/02-packages-and-scope/exercises/Package$ go run main.go hey.go bye.go
+$ go run main.go hey.go bye.go
 Hi 
 goodbye
 ```   
