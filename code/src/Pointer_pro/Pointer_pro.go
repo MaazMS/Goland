@@ -7,7 +7,7 @@ func main() {
 	i := 10
 
 	j := &i
-	fmt.Println("retun memeory Address of i variable \t", j)
+	fmt.Println("retun memeory Address of i variable \t", *j)
 	fmt.Println("value of variable i                 \t", i)
 
 	var k *int
