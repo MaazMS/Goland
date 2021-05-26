@@ -30,5 +30,4 @@ src
 3. **pkg**: `contains Go package archives (.a).`   
    All the non-executable packages (shared libraries) are stored in this directory.   
    You cannot run these packages directly as they are not binary files.    
-   They are typically imported and used inside other executable packages.   
-   
+   They are typically imported and used inside other executable packages.
