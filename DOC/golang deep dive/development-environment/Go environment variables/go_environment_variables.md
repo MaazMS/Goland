@@ -14,3 +14,7 @@
 1. The LookupEnv function retrieves the value of the environment variable named by the key.   
 1. If the variable is set the value (which may be empty) is returned, and the boolean is true.  
 1. Otherwise, the returned value will be empty, and the boolean will be false. 
+
+## os.setenv 
+1. The os.Setenv sets the value of the environment variable named by the key.
+
