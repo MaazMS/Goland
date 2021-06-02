@@ -1,4 +1,4 @@
-## who invented golang 
+## who invented golang?   
 1. Go is a statically typed, compiled programming language designed at Google[ by Robert Griesemer, Rob Pike, and Ken Thompson   
 and  a few other engineer.    
    *  Ken Thompson (B, C, Unix, UTF-8)  
@@ -9,7 +9,7 @@ and  a few other engineer.
 ####  [Why did you create a new language?](https://golang.org/doc/faq#creating_a_new_language)
 
 
-## DOcumentation of glang
+## Documentation of glang
 1. [The Go Programming Language Specification](https://golang.org/ref/spec)
 1. [Effective Go](https://golang.org/doc/effective_go)
 
@@ -43,10 +43,10 @@ and  a few other engineer.
 1. open source
 
 
-### go vs other language  
+### Golang vs other language  
 1. see full article [here](https://talks.golang.org/2014/gocon-tokyo.slide#1)  
 ![](https://talks.golang.org/2014/gocon-tokyo.slide#16)  
 ![](https://talks.golang.org/2014/gocon-tokyo.slide#22)  
    
-## Companies currently using Go throughout the world
+## Companies currently using Golang throughout the world
 1. [GoUsers](https://github.com/golang/go/wiki/GoUsers)
