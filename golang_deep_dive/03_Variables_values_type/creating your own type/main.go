@@ -1,16 +1,10 @@
-## Creating  your own type  
-1. golang is static type language,    
-1. Their for it is type is more important in golang.   
-1. Create our own type with the help of `type` keyword.  
-1. you mast be defined underline type of your type.   
-
-```go
 package main
 
 import (
 	"fmt"
 )
 
+// DECLARE variable no for TYPE int
 var a int
 
 // create our own type palindrome and underline type is int
@@ -29,5 +23,3 @@ func main() {
 	fmt.Printf("%T\n", b)
 
 }
-
-```

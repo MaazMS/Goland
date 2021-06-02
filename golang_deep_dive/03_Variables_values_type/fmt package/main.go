@@ -2,9 +2,9 @@ package main
 
 import "fmt"
 
-func main()  {
+func main() {
 
-	n, err :=fmt.Println(" fmt package ", 123, true)
+	n, err := fmt.Println(" fmt package ", 123, true)
 
 	fmt.Println(n)
 	fmt.Println(err)

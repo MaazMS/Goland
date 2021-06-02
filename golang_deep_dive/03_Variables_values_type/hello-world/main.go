@@ -2,10 +2,10 @@ package main
 
 import "fmt"
 
-func init(){
+func init() {
 	fmt.Println(" init() function is executed before the main() function call")
 }
-func main()  {
+func main() {
 
 	fmt.Println("Hello world")
 
@@ -13,18 +13,18 @@ func main()  {
 
 }
 
-func foo(){
+func foo() {
 
 	fmt.Println("Even Number")
-	for i :=1 ; i<= 100 ; i++ {
-		if i % 2 ==0 {
+	for i := 1; i <= 100; i++ {
+		if i%2 == 0 {
 			fmt.Println(i)
 		}
 	}
 	baar()
 }
 
-func baar()  {
+func baar() {
 
 	fmt.Println("Fuc baar, Program is exect")
 }
