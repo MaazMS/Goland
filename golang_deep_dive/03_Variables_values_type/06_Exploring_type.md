@@ -1,7 +1,7 @@
 ## Exploring type  
 1. golang is a STATIC programming language
 1. A VARIABLE is DECLARED to hold a VALUE of a certain TYPE.  
-1. In this example DECLARE the VARIABLE with the IDENTIFIER "user"  is of TYPE string and I ASSIGN the VALUE "Maaz shaikh".  
+1. In this example DECLARE the VARIABLE with the IDENTIFIER "name"  is of TYPE string, and I ASSIGN the VALUE "Maaz shaikh".  
 1. For assign int TYPE VALUE to VARIABLE it shows `cannot use 10 (type untyped int) as type string in assignment`   
 
 ```go
