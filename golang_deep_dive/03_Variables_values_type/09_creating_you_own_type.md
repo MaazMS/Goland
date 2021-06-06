@@ -5,11 +5,8 @@
 1. you mast be defined underline type of your type.   
 
 ## Types
-1. https://golang.org/ref/spec#Types  
-1. Each type T has an underlying type: If T is one of the predeclared boolean, numeric, or string types, or a type literal,    
-   the corresponding underlying type is T itself.  
-1.  Otherwise, T's underlying type is the underlying type of the type to which T refers in its type declaration.  
-
+1. https://golang.org/ref/spec#Types   
+1. Explain underline Type example 
 ```go
 type T1 string
 type T2  T1
