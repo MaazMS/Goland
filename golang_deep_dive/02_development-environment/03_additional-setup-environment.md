@@ -11,11 +11,9 @@ It is the location where source code is  available.
 Q2. what is bin folder?   
 Every time we run the application binary file is created and store in bin dir.   
 Q3. what is pkg folder?     
-For compile anything it generates intermediate binary which mean sit is not full compile.      
-`example`      
-If i take third party library and intergrated with our application then pkg directory intermediate      binary are store.   
-for reason that because they are recompile every time.    
-when you compile your go application it check any source file in **pkg** dir and check it compiled if   compiled then link them to our application.      
+   All the non-executable packages (shared libraries) are stored in this directory.     
+   You cannot run these packages directly as they are not binary files.      
+   They are typically imported and used inside other executable packages.     
 7. link the path of workspace with golan. It is very important.    
 This the whole example to local environment and workspace  
 ``` 
