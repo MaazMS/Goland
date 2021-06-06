@@ -1,4 +1,3 @@
-## package main  
 1. Every go file being with package name.
 1. The name of the package be the same as the folder name **except package main**.
 1. Package main is the entry point of the program.
