@@ -1,12 +1,12 @@
 ## package management Introduction  
 1. package management is also sometimes referred to as like dependencies.   
 1. So package management or dependencies or like, you know, bringing in different packages or libraries.  
-1. The entire idea of this is that it takes a lot of effort to create software. And so can we reduce that effort by by sharing code?   
+1. The entire idea of this is that it takes a lot of effort to create software. so can we reduce that effort by sharing code?   
 1. different package managers write different pieces of software that allow you to search for and   
 find code that other people have written and then to use that code in your code.  
 ## Some question before use package management  
 1. First and foremost, you are grabbing other people's software, and you're putting it into your software.  
-And so you want to ask yourself, is the software that you're using from somebody else?  
+ so you want to ask yourself, is the software that you're using from somebody else?  
 1. Is it good software?   
 1. Is it safe software? 
 
