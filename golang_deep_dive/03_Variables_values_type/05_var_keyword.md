@@ -9,7 +9,7 @@ import "fmt"
 
 // DECLARE the variable "No"
 // ASSIGN the value 10
-// declare & assign = initilization
+// declare & assign = initialization
 var No = 10
 
 // DECLARE there is a VARIABLE with the IDENTIFIER "z"
