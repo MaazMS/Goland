@@ -7,12 +7,12 @@
 1. Next, extract the tarball to cd /Downloads directory.    
     1. sudo tar -xvf go1.16.4.linux-amd64.tar.gz    
     
-1. And simply move the new go directory to the recommended location.
+1. simply move the new go directory to the recommended location.
     1. sudo mv go /usr/local
-1. if we type go versionin a terminal we get. `go’ not found`  
+1. if we type go version in a terminal we get. `go’ not found`  
     1. sudo echo 'export PATH=$PATH:/usr/local/go/bin' >> ~/.bashrc
 
-1. Restart the terminal and verify the manual install with go version
+1. Restart the terminal and verify the manual installation with go version
 
 ## How to uninstall Golang  
 1. Find out where the Golang binary is located in your machine   
