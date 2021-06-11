@@ -12,4 +12,9 @@ func main() {
 	no[3] = 100
 	fmt.Println(no)
 	fmt.Println(len(no))
+
+	for i, v := range no {
+		fmt.Println(i, v)
+
+	}
 }
