@@ -30,4 +30,36 @@ Array example
 [0 0 0 0 0]
 [0 0 0 100 0]
 5
+``` 
+
+## Iterate an array   
+1. Iterate an array using range 
+
+```go
+package main
+
+import (
+	"fmt"
+) 
+func main()  {
+
+	var a [5] int
+	a [0] = 0
+	a [1] = 1
+	a [2] = 2
+	a [3] = 3
+	a [4] = 4
+
+	for i, v := range a{
+		fmt.Println(i,  v)
+
+	}
+}
+```
+```bash
+0 0
+1 1
+2 2
+3 3
+4 4
 ```
