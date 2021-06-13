@@ -1,10 +1,15 @@
-## interface   
+## interface 
 1. An interface allows a value to be of more than  one type.     
 1. We create an interface using this syntax: “keyword identifier type” so for an interface.  
    `type identifier interface`  
 1. When define method inside interface a type must have to implement that interface.      
 1. An interface type specifies a `method set` called its interface.      
 **Note** Value have one or more type.   
+
+
+1. interfaces allow things to work well together to interface together.
+1.  empty interface, which means that every other type has no methods.
+1.  I could pass in any other type.  
 
 ## polymorphism  
 1. polymorphism means same method name (but different signatures) being uses for different types.  
