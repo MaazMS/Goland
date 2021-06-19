@@ -1,5 +1,5 @@
 
-## 
+##  Concurrency vs parallelism 
 1. If there's one thing most people know about Go, is that it is designed for a concurrency.   
 1. No introduction to Go is complete without a demonstration of its goroutines and channels.    
 1. But when people hear the word concurrency they often think of parallelism, a related but quite distinct concept.  
