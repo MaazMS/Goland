@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main()  {
+func main() {
 	//  this code is not going to run.
 
 	// put t2 on c
@@ -27,4 +27,3 @@ func main()  {
 	d <- 50
 	fmt.Println(<-d)
 }
-
