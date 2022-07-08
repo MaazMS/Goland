@@ -1,10 +1,13 @@
 ## who invented golang?   
-1. Go is a statically typed, compiled programming language designed at Google[ by Robert Griesemer, Rob Pike, and Ken Thompson   
-and  a few other engineer.    
+1. Go is a statically typed, compiled programming language
+1. Go designed at Google  in 2007 and developed by `Robert Griesemer`, `Rob Pike`, and `Ken Thompson`   
+and  a few other engineer But they launched it public in 2009 and an open-source programming language in 2012.   
    *  Ken Thompson (B, C, Unix, UTF-8)  
    *  Rob Pike (Unix, UTF-8) 
    *  Robert Griesemer (Hotspot, JVM)  
-
+python: Easy to use, but slow  
+java : complex type system   
+c/c+ :  complex type system, slow compiler time    
 
 ####  [Why did you create a new language?](https://golang.org/doc/faq#creating_a_new_language)
 
@@ -49,4 +52,25 @@ and  a few other engineer.
 ![](https://talks.golang.org/2014/gocon-tokyo.slide#22)  
    
 ## Companies currently using Golang throughout the world
-1. [GoUsers](https://github.com/golang/go/wiki/GoUsers)
+1. [GoUsers](https://github.com/golang/go/wiki/GoUsers)  
+
+
+## What is package  
+1. code that is already written which you can use in you project.  
+1. It is import at the begging for source code.    
+
+
+#### explain  
+* package main   
+1. Every go application structure as packages.  
+2. main is special package.  
+3. It is entry point of the application.    
+
+* import   
+1. It is used to add additional libraries   
+2. fmt library is used to format string.    
+
+* func main()   
+1. It is entry point of the application.        
+
+
